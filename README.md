@@ -1,1 +1,1 @@
-# Jolly-Client-
+Just Jolly Clients recourses. 
